@@ -138,7 +138,7 @@ If there are a number of tables and figures in the manuscript, it’s a good ide
 ------------------------------------------------------------------------|--------------------------------------------------------------------------
         Plagiarism detection tool at time of submission                 | Free access to ScienceDirect All content published by Elsevier
         Tool using the Scopus database to identify potential reviewers  | Free access to ScopusThe world's largest abstract and citation database
-         __                          _________                          |  Reference-linking in PDF of the manuscript
+                                                                        |  Reference-linking in PDF of the manuscript
                                                                                                                             
 
 Now that we have looked at the role of a reviewer, as well as the different components of a manuscript, let’s look at how the process of reviewing a manuscript is made easier. 
