@@ -454,8 +454,7 @@ Don't forget to write the detailed budget justification.
 If you have subcontracts, you needed to make sure their budgets are in the proper format, and do it in advance to give your administrative staff time to incorporate them into your budget package.
 
 
-## 29. 
-           Submit proposal and forget about it
+## 29. Submit proposal and forget about it
                        
         - Check PDFs for Readablebility and errors
         - Give enough time to upload the files
@@ -474,6 +473,19 @@ When you have everything ready, it is time to submit. Before submission, double-
 - You are done! Now you can forget about the proposal until you hear from the review panel, but do make sure that the agency communications don't get filtered into your SPAM folder!
                                                                                  
                                                                           
-                                                                                                                      
-                                                                                                                     
-                           
+## 30. Use your review
+
+        - Many agencies will return detailed reviews
+        - Use the review to revise and resubmit your grant
+        - Assume any problems were from you, not the reviewer
+        - Make sure you invest considerable work in the revision
+
+After you hear back from the review panel, you may or may not have a cause for celebration. However, even if you didn't make it this time, the work does not stop there. Many agencies will return detailed reviews, and you should use the review to revise and resubmit your grant.
+
+Generally, you should assume any problems  were from YOU, not from the reviewer, and fuming about unfair treatment may feel nice, but it will not get you anywhere. 
+- If the reviewer misunderstood something, then YOU did not explain it clearly enough.
+
+Make sure you invest considerable work in the revision and try to address the comments that the panel gave. It is likely that the review panel composition for the next cycle will be substantially similar or even the same, so it is wise to be responsive to their feedback.
+
+And finally – Good luck! No one gets ALL their proposalls funded, and writing them is a lifelong learning process, so be persistent.
+
